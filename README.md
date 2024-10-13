@@ -27,4 +27,3 @@ I am a passionate cybersecurity expert dedicated to securing systems, networks, 
 **Contact:**
 
 - Instagram: [@real_hackerjacke_c0p4t7](https://instagram.com/real_hackerjacke_c0p4t7)
-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2376015" style='border:none;'></iframe>
